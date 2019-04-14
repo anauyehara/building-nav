@@ -1,9 +1,4 @@
-/* .box { */
-    height: 100px;
-    width: 200px;
-    border: 1px solid black;
-
-}
+/* 
 .red {
     background-color: red;
 }
@@ -22,7 +17,7 @@
 .orange {
     background-color: orange;
 }
-/*  */
+
 .left {
     float: left;
 }
@@ -38,10 +33,16 @@
 .clear-both {
     clear: both;
 }
+
+*/
+
+.main-nav {
+    background-color: blue;
+}
 .nav-list {
     float: right;
     list-style-type: none;
-    
+        
 }
 .center {
     float: left;
@@ -58,8 +59,12 @@
     padding: 6px 20px
 
 }
+li {color:white;
+    float: left;
+    padding: 14px 16px;
 
 
+}
 
 li:hover {
     font-size: 30px;
