@@ -37,7 +37,7 @@
 */
 
 .main-nav {
-    background-color: blue;
+    background-color:blue;
 }
 .nav-list {
     float: right;
@@ -65,6 +65,19 @@ li:hover {
     font-size: 30px;
     padding: 5px 16px;
 }
+< maps
+
+social-media {
+    height: 90px;
+}
+
+iframe {
+    height: 700px;
+    width: 65%;
+    box-align:center;
+    padding: 250px;
+}
+=======
 /* 
 
 */
@@ -86,4 +99,5 @@ li:hover {
      color: white;
      text-decoration: none;
       }
+> develop
 
