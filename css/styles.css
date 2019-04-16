@@ -65,3 +65,15 @@ li:hover {
     font-size: 30px;
     padding: 5px 16px;
 }
+
+social-media {
+    height: 90px;
+}
+
+iframe {
+    height: 700px;
+    width: 65%;
+    box-align:center;
+    padding: 250px;
+}
+
