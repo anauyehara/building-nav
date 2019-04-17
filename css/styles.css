@@ -79,9 +79,11 @@
    
     }
 .button-danger {
-    width: 250px;
+    
     border: none red;
-    border: none;
+    background: blue;
+    color: :black;
+
    
     
 }
