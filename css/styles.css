@@ -38,6 +38,7 @@
 
 .main-nav {
     background-color: blue;
+    padding: 0px
 }
 .nav-list {
     float: right;
@@ -71,7 +72,7 @@ social-media {
 }
 
 iframe {
-    height: 700px;
+    height: 800px;
     width: 65%;
     box-align:center;
     padding: 250px;
