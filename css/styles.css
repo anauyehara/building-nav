@@ -1,4 +1,7 @@
 /* 
+
+.box {
+}
 .red {
     background-color: red;
 }
@@ -45,10 +48,50 @@
     list-style-type: none;
        
 }
+
+.no-list-style {
+    list-style-type: none;
+
+}
 .center {
     float: left;
     padding: 10px;
 }
+
+.content {
+
+
+}
+
+.button {
+    border-radius: 10px;
+    color: white;
+    font-size: 24px;
+    padding: 10px;
+    
+}
+
+.button-success {
+    
+    border: none white ;
+    background:green;
+    color: white;
+   
+    }
+.button-danger {
+    width: 250px;
+    border: none red;
+    border: none;
+   
+    
+}
+
+
+.button-small{
+    width: 150px:
+
+}
+
 .logo {
     height: 75px;
     width: 75px;
@@ -79,4 +122,5 @@ iframe {
     padding: 250px;
 
 }
+
 
