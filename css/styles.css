@@ -37,7 +37,12 @@
 */
 
 .main-nav {
+<<<<<< audio-video
+    background-color: blue;
+    padding: 0px
+=======
     background-color:blue;
+>>>>>> develop
 }
 .nav-list {
     float: right;
@@ -67,15 +72,17 @@ li:hover {
 }
 < maps
 
-social-media {
-    height: 90px;
+.social-media {
+    height: 25px;
+
 }
 
 iframe {
-    height: 700px;
+    height: 800px;
     width: 65%;
     box-align:center;
     padding: 250px;
+
 }
 =======
 /* 
