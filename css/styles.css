@@ -62,7 +62,6 @@
 
 
 }
-
 .button {
     border-radius: 10px;
     color: white;
@@ -134,11 +133,19 @@ a {
 }
 
 iframe {
-    height: 800px;
-    width: 65%;
+    height: 600px;
+    width: 95%;
+    border-width: 5px;
     box-align:center;
-    padding: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
 
+}
+.map {
+    border-width: 5px;
+    border-color: black;
 }
 /* all devices with screen width <=768px  */
 @media(max-width: 768px) {
