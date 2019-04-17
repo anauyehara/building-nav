@@ -91,6 +91,15 @@
 
 }
 
+span {
+    background-color: yellowgreen
+}
+.family > span {
+    background-color: orange;
+}
+.second-span ~.first-span{
+    color: red;
+}
 .footer {
     background-color: blue;
     padding: 10px
