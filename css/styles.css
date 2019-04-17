@@ -67,8 +67,9 @@ li:hover {
     padding: 5px 16px;
 }
 
-social-media {
-    height: 90px;
+.social-media {
+    height: 25px;
+
 }
 
 iframe {
