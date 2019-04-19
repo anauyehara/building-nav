@@ -40,8 +40,12 @@
 */
 
 .main-nav {
+<<<<<< audio-video
     background-color: blue;
     padding: 0px
+=======
+    background-color:blue;
+>>>>>> develop
 }
 .nav-list {
     float: right;
@@ -128,6 +132,7 @@ li:hover {
     font-size: 30px;
     padding: 5px 16px;
 }
+< maps
 
 .social-media {
     height: 75px;
@@ -150,10 +155,13 @@ iframe {
     padding-right: 10px;
 
 }
+ family-tree
 .map {
     border-width: 5px;
     border-color: black;
 }
+
+
 /* all devices with screen width <=768px  */
 @media(max-width: 768px) {
     .button {
@@ -167,6 +175,29 @@ iframe {
     }
 }
 /* between 768px to 1024px, set font-size = 22px */
+
+
+/* 
+
+*/
+.content {
+    height: 115vh;
+
+} 
+
+ footer {
+     background-color: black;
+ }
+ .social-media {
+    height: 50px;
+    margin-bottom: 0;
+    list-style-type: none;
+
+ }
+ a {
+     color: white;
+     text-decoration: none;
+      }
 
 @media(min-width:768px) and (max-width: 1024px){
     .button{
