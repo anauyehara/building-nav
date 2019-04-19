@@ -81,13 +81,20 @@
     
     border: none red;
     background: blue;
-    color: :black;
+    color: black;
        
 }
 
 .button-small{
     width: 150px:
 
+}
+
+.button-default {
+    border: none red;
+    background: yellow
+    color: black;
+        
 }
 
 span {
