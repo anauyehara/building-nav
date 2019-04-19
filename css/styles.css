@@ -66,7 +66,6 @@
 
 
 }
-
 .button {
     border-radius: 10px;
     color: white;
@@ -86,7 +85,7 @@
     
     border: none red;
     background: blue;
-    color: :black;
+    color: black;
        
 }
 
@@ -95,6 +94,22 @@
 
 }
 
+.button-default {
+    border: none red;
+    background: yellow
+    color: black;
+        
+}
+
+span {
+    background-color: yellowgreen
+}
+.family > span {
+    background-color: orange;
+}
+.second-span ~.first-span{
+    color: red;
+}
 .footer {
     background-color: blue;
     padding: 10px
@@ -130,13 +145,23 @@ a {
 }
 
 iframe {
-    height: 800px;
-    width: 65%;
+    height: 600px;
+    width: 95%;
+    border-width: 5px;
     box-align:center;
-    padding: 250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
 
 }
-<<<<<< media-query
+ family-tree
+.map {
+    border-width: 5px;
+    border-color: black;
+}
+
+
 /* all devices with screen width <=768px  */
 @media(max-width: 768px) {
     .button {
@@ -150,8 +175,8 @@ iframe {
     }
 }
 /* between 768px to 1024px, set font-size = 22px */
-=======
-=======
+
+
 /* 
 
 */
